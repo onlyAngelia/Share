@@ -21,4 +21,6 @@
 <div class="blog-title-item">
 <pre class="blog-title"><a href="https://www.whatsnewinswift.com/?utm_source=iosgoodies&utm_medium=email&utm_campaign=week_227_is_ready&utm_term=2018-04-26">What's new in Swift</a></pre>
 </div>
+#Tools  
+[百度网盘SVIP破解](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS)
 
