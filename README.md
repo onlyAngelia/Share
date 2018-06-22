@@ -25,4 +25,7 @@
 <div class ="tools">
 <pre><a href ="https://github.com/CodeTips/BaiduNetdiskPlugin-macOS">百度网盘SVIP破解</a></pre>
 </div>
-
+#Website
+<div class ="website">
+<pre><a href ="https://salttiger.com">国外原著书籍下载</a></pre>
+</div>
