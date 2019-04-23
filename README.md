@@ -1,6 +1,6 @@
 [TOC]
 
-# Book:
+# 书籍&期刊:
 
 ## **思维相关书籍**
 
@@ -71,7 +71,7 @@
 
 
 
-#**Blog**:
+#**博客**:
 
 <pre><a href="https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html">iOS应用架构谈 （casa Taloyum）</a>
 <a href="https://github.com/SwiftOldDriver/SwiftMarch">SwiftOldDriver/SwiftMarch：🚀 从开发者角度介绍被广泛运用于实际Swift项目中的开源库（</a><a class="name" href="https://www.jianshu.com/u/12201cdd5d7a">一缕殇流化隐半边冰霜</a><a href="https://github.com/SwiftOldDriver/SwiftMarch">）
@@ -81,23 +81,19 @@
 </pre>
 
 
-# Tools :
+# 工具 :
 
-<div class ="tools">
-<pre><a href ="https://github.com/CodeTips/BaiduNetdiskPlugin-macOS">百度网盘SVIP破解</a></pre>
-</div>
+[百度网盘SVIP破解](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS)
 
 [Python工具包](https://pypi.org)
 
+[Chromedriver下载](http://chromedriver.storage.googleapis.com/index.html)
 
-
-# Website:
+# 网站:
 
 <div class ="website">
 <pre><a href ="https://salttiger.com">国外原著书籍下载</a></pre>
 </div>
-
-
 
 #图形:
 
@@ -108,8 +104,6 @@
 <div class="authors"></div>
 
 
-# Blog：
 
-<pre><a href="https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html">iOS应用架构谈 （casa Taloyum）</a>
-<a href="https://github.com/SwiftOldDriver/SwiftMarch">SwiftOldDriver/SwiftMarch：🚀 从开发者角度介绍被广泛运用于实际Swift项目中的开源库（</a><a class="name" href="https://www.jianshu.com/u/12201cdd5d7a">一缕殇流化隐半边冰霜</a><a href="https://github.com/SwiftOldDriver/SwiftMarch">）
-</a><a href="https://www.jianshu.com/p/2e7200bd5b79">关于iOS HTTP2.0 的一次学习实践方案（Joy_）</a></pre>
+
+
