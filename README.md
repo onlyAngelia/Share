@@ -73,12 +73,18 @@
 
 #**博客**:
 
+## iOS大牛
+
 <pre><a href="https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html">iOS应用架构谈 （casa Taloyum）</a>
 <a href="https://github.com/SwiftOldDriver/SwiftMarch">SwiftOldDriver/SwiftMarch：🚀 从开发者角度介绍被广泛运用于实际Swift项目中的开源库（</a><a class="name" href="https://www.jianshu.com/u/12201cdd5d7a">一缕殇流化隐半边冰霜</a><a href="https://github.com/SwiftOldDriver/SwiftMarch">）
 </a><a href="https://www.jianshu.com/p/2e7200bd5b79">关于iOS HTTP2.0 的一次学习实践方案（Joy_）</a>
 <a href="https://github.com/Draveness/analyze/tree/master/contents/objc">Objective-C 源码系列（isa指针、autoreleasepool、retain、release等）</a>
 <a href="https://hit-alibaba.github.io/interview/iOS/Cocoa-Touch/Performance.html">离屏渲染 </a>
 </pre>
+
+## Python相关
+
+
 
 
 # 工具 :
@@ -87,12 +93,22 @@
 
 [Python工具包](https://pypi.org)
 
-[Chromedriver下载](http://chromedriver.storage.googleapis.com/index.html)
+[Chromedriver下载](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
 # 网站:
 
+## 书籍下载
+
 <div class ="website">
 <pre><a href ="https://salttiger.com">国外原著书籍下载</a></pre>
+</div>
+
+## SQL学习网站
+
+<div class ="website">
+<pre><a href ="https://mode.com/sql-tutorial/introduction-to-sql/">The SQL Tutorial to Data Analysis</a></pre>
+<pre><a href ="http://www.sqlcourse2.com/"> SQL Course</a></pre>
+<pre><a href ="https://www.programmerinterview.com/database-sql/practice-interview-question-1/"> Practical SQL Interview Questions and Answers</a></pre>
 </div>
 
 #图形:
@@ -102,8 +118,6 @@
 <div class="xzl-invite-icon"></div>
 </div>
 <div class="authors"></div>
-
-
 
 
 
